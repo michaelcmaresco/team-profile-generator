@@ -6,7 +6,7 @@ We are aiming to build a Node.js command line application. We aim to take in inf
 
 ## Walkthrough Video
 
--LINK-
+https://youtu.be/bqcXNN4AP_c
  
 ## Table of Contents
 * [Team-Profile-Generator](#team-profile-generator)
@@ -43,4 +43,4 @@ Run `npm test` to run Jest for tests on constructors.
 If there are any questions about this projects, please contact my email Michael.c.maresco@gmail.com. My full GitHub also can be found at his link. https://github.com/Michaelcmaresco.
 
 ## License 
-This project is license under MIT
+MIT
